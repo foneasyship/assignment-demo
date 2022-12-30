@@ -1,0 +1,6 @@
+com/example/test/pages/DashboardPage.class
+com/example/AppTest.class
+com/example/test/pages/DirectoryPage.class
+com/example/test/cases/C001.class
+com/example/framework/pages/AbstractPage.class
+com/example/test/pages/LoginPage.class

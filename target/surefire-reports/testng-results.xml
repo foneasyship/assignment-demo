@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-30T06:49:31 HKT" name="Suite1" finished-at="2022-12-30T06:50:41 HKT" duration-ms="70485">
+    <groups>
+    </groups>
+    <test started-at="2022-12-30T06:49:31 HKT" name="DemoTest" finished-at="2022-12-30T06:50:41 HKT" duration-ms="70485">
+      <class name="com.example.test.cases.C002">
+        <test-method signature="testSecondCase()[pri:0, instance:com.example.test.cases.C002@51dcb805]" started-at="2022-12-30T06:50:04 HKT" name="testSecondCase" finished-at="2022-12-30T06:50:41 HKT" duration-ms="37620" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSecondCase -->
+      </class> <!-- com.example.test.cases.C002 -->
+      <class name="com.example.test.cases.C001">
+        <test-method signature="testFirstCase()[pri:0, instance:com.example.test.cases.C001@67080771]" started-at="2022-12-30T06:49:31 HKT" name="testFirstCase" finished-at="2022-12-30T06:50:04 HKT" duration-ms="32726" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFirstCase -->
+      </class> <!-- com.example.test.cases.C001 -->
+    </test> <!-- DemoTest -->
+  </suite> <!-- Suite1 -->
+</testng-results>
